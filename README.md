@@ -123,6 +123,7 @@ Endpoints disponíveis:
 **POST** `/api/limits`
 ```json
 {
+  "id": "string" - Não precisa ser passado valor
   "cpf": "12345678900",
   "agencia": "0001",
   "conta": "12345-6",
