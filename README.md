@@ -27,7 +27,7 @@ O sistema permite:
 ## 🧠 Arquitetura do Projeto
 
 ```
-AppEstudoAPI/
+FraudSys/
 ├── Controllers/
 │   ├── LimitsController.cs      → CRUD de limites PIX
 │   └── PixController.cs         → Processamento de transações PIX
@@ -112,9 +112,9 @@ Endpoints disponíveis:
 | Método | Rota | Descrição |
 |--------|------|------------|
 | `POST` | `/api/limits` | Cadastra novo limite PIX |
-| `GET` | `/api/limits/{cpf}/{agency}/{account}` | Busca limite existente |
+| `GET` | `/api/limits/{cpf}/{agencia}/{conta}` | Busca limite existente |
 | `PUT` | `/api/limits` | Atualiza limite de uma conta |
-| `DELETE` | `/api/limits/{cpf}/{agency}/{account}` | Remove limite cadastrado |
+| `DELETE` | `/api/limits/{cpf}/{agencia}/{conta}` | Remove limite cadastrado |
 | `POST` | `/api/pix` | Processa uma transação PIX |
 
 ## 💡 Exemplo de Uso
@@ -124,9 +124,9 @@ Endpoints disponíveis:
 ```json
 {
   "cpf": "12345678900",
-  "agency": "0001",
-  "account": "12345-6",
-  "limit": 1500
+  "agencia": "0001",
+  "conta": "12345-6",
+  "limite": 1500
 }
 ```
 
@@ -135,9 +135,9 @@ Endpoints disponíveis:
 ```json
 {
   "cpf": "12345678900",
-  "agency": "0001",
-  "account": "12345-6",
-  "amount": 500
+  "agencia": "0001",
+  "conta": "12345-6",
+  "valorTransacao": 500
 }
 ```
 
@@ -183,5 +183,5 @@ Uso livre apenas para fins educacionais e demonstrativos.
 
 **Tarcísio Coelho**  
 Desenvolvedor Full Stack (.NET / Node / AWS)  
-📧 [seu-email@exemplo.com]  
-🔗 [github.com/seuusuario](https://github.com/seuusuario)
+📧 [taarcisioaraujo@gmail.com]  
+🔗 [github.com/seuusuario](https://github.com/tarcisiocoelho)
