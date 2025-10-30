@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "FraudSys.Controllers.LimitsController",
+    "Method": "CreateLimit",
+    "RelativePath": "api/Limits",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "limit",
+        "Type": "FraudSys.Models.AccountLimit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FraudSys.Controllers.LimitsController",
+    "Method": "UpdateLimit",
+    "RelativePath": "api/Limits",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updated",
+        "Type": "FraudSys.Models.AccountLimit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FraudSys.Controllers.LimitsController",
+    "Method": "GetLimit",
+    "RelativePath": "api/Limits/{cpf}/{agencia}/{conta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "agencia",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "conta",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FraudSys.Controllers.LimitsController",
+    "Method": "DeleteLimit",
+    "RelativePath": "api/Limits/{cpf}/{agencia}/{conta}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "agencia",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "conta",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FraudSys.Controllers.PixController",
+    "Method": "ProcessarPix",
+    "RelativePath": "api/Pix",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transacao",
+        "Type": "FraudSys.Models.PixTransaction",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
