@@ -185,4 +185,4 @@ Uso livre apenas para fins educacionais e demonstrativos.
 **Tarcísio Coelho**  
 Desenvolvedor Full Stack (.NET / Node / AWS)  
 📧 [taarcisioaraujo@gmail.com]  
-🔗 [github.com/seuusuario](https://github.com/tarcisiocoelho)
+🔗 [github.com/tarcisiocoelho](https://github.com/tarcisiocoelho)
