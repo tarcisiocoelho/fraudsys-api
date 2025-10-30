@@ -3,36 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|c:\\users\\tamires\\source\\repos\\fraudsys-api\\fraudsys\\models\\accountlimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|solutionrelative:models\\accountlimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4C1D2A1-2984-7E46-21F0-F1E92E80E31C}|..\\FraudSys.Tests\\FraudSys.Tests.csproj|c:\\users\\tamires\\source\\repos\\fraudsys-api\\fraudsys.tests\\limitrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|c:\\users\\tamires\\source\\repos\\fraudsys-api\\fraudsys\\repositories\\limitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|solutionrelative:repositories\\limitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|c:\\users\\tamires\\source\\repos\\fraudsys-api\\fraudsys\\services\\limitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|solutionrelative:services\\limitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|c:\\users\\tamires\\source\\repos\\fraudsys-api\\fraudsys\\controllers\\limitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|solutionrelative:controllers\\limitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|c:\\users\\tamires\\source\\repos\\fraudsys-api\\fraudsys\\services\\pixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|solutionrelative:services\\pixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|c:\\users\\tamires\\source\\repos\\fraudsys-api\\fraudsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|c:\\users\\tamires\\source\\repos\\fraudsys-api\\fraudsys\\models\\pixtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|solutionrelative:models\\pixtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|c:\\users\\tamires\\source\\repos\\fraudsys-api\\fraudsys\\controllers\\pixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4508C583-8A8E-4DDF-AFE1-FE9250C11D8E}|FraudSys.csproj|solutionrelative:controllers\\pixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,32 +21,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PixService.cs",
-              "DocumentMoniker": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Services\\PixService.cs",
-              "RelativeDocumentMoniker": "Services\\PixService.cs",
-              "ToolTip": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Services\\PixService.cs",
-              "RelativeToolTip": "Services\\PixService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LimitRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys.Tests\\LimitRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\FraudSys.Tests\\LimitRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys.Tests\\LimitRepositoryTests.cs",
+              "RelativeToolTip": "..\\FraudSys.Tests\\LimitRepositoryTests.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:43:04.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LimitService.cs",
-              "DocumentMoniker": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Services\\LimitService.cs",
-              "RelativeDocumentMoniker": "Services\\LimitService.cs",
-              "ToolTip": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Services\\LimitService.cs",
-              "RelativeToolTip": "Services\\LimitService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAEwBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:42:27.872Z",
+              "WhenOpened": "2025-10-30T04:48:06.228Z",
               "EditorCaption": ""
             },
             {
@@ -78,74 +44,22 @@
               "RelativeDocumentMoniker": "Repositories\\LimitRepository.cs",
               "ToolTip": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Repositories\\LimitRepository.cs",
               "RelativeToolTip": "Repositories\\LimitRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:41:36.961Z",
+              "WhenOpened": "2025-10-30T04:47:19.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PixTransaction.cs",
-              "DocumentMoniker": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Models\\PixTransaction.cs",
-              "RelativeDocumentMoniker": "Models\\PixTransaction.cs",
-              "ToolTip": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Models\\PixTransaction.cs",
-              "RelativeToolTip": "Models\\PixTransaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PixService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Services\\PixService.cs",
+              "RelativeDocumentMoniker": "Services\\PixService.cs",
+              "ToolTip": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Services\\PixService.cs",
+              "RelativeToolTip": "Services\\PixService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:41:02.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountLimit.cs",
-              "DocumentMoniker": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Models\\AccountLimit.cs",
-              "RelativeDocumentMoniker": "Models\\AccountLimit.cs",
-              "ToolTip": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Models\\AccountLimit.cs",
-              "RelativeToolTip": "Models\\AccountLimit.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:35:57.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PixController.cs",
-              "DocumentMoniker": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Controllers\\PixController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PixController.cs",
-              "ToolTip": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Controllers\\PixController.cs",
-              "RelativeToolTip": "Controllers\\PixController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:34:47.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LimitsController.cs",
-              "DocumentMoniker": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Controllers\\LimitsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LimitsController.cs",
-              "ToolTip": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Controllers\\LimitsController.cs",
-              "RelativeToolTip": "Controllers\\LimitsController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:25:02.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Tamires\\source\\repos\\fraudsys-api\\FraudSys\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:51:50.311Z",
+              "WhenOpened": "2025-10-30T04:47:03.09Z",
               "EditorCaption": ""
             }
           ]

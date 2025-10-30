@@ -37,3 +37,9 @@ C:\Users\Tamires\source\repos\fraudsys-api\FraudSys\obj\Debug\net8.0\ref\FraudSy
 C:\Users\Tamires\source\repos\fraudsys-api\FraudSys\bin\Debug\net8.0\AWSSDK.Core.dll
 C:\Users\Tamires\source\repos\fraudsys-api\FraudSys\bin\Debug\net8.0\AWSSDK.DynamoDBv2.dll
 C:\Users\Tamires\source\repos\fraudsys-api\FraudSys\bin\Debug\net8.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\Tamires\source\repos\fraudsys-api\FraudSys\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Tamires\source\repos\fraudsys-api\FraudSys\bin\Debug\net8.0\Moq.dll
+C:\Users\Tamires\source\repos\fraudsys-api\FraudSys\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\Tamires\source\repos\fraudsys-api\FraudSys\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\Tamires\source\repos\fraudsys-api\FraudSys\bin\Debug\net8.0\xunit.core.dll
+C:\Users\Tamires\source\repos\fraudsys-api\FraudSys\bin\Debug\net8.0\xunit.execution.dotnet.dll
