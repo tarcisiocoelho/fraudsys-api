@@ -13,10 +13,26 @@ builder.Services.AddScoped<LimitService>();
 builder.Services.AddScoped<PixService>();
 
 builder.Services.AddControllers();
+
+// --- CORS ---
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAngularDev", policy =>
+    {
+        policy
+            .WithOrigins("http://localhost:4200")
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
+});
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+// --- Usar CORS ---
+app.UseCors("AllowAngularDev");
 
 if (app.Environment.IsDevelopment())
 {
@@ -26,4 +42,5 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.MapControllers();
+
 app.Run();
